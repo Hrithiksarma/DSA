@@ -1,16 +1,14 @@
 class Solution {
 public:
     int sumOfUnique(vector<int>& nums) {
-        unordered_map<int,int>hash;
+        int freq[101]={0};
         int sum=0;
-
-        for(int num:nums){
-            hash[num]++;
+        for(int num : nums){
+            freq[num]++;
         }
-
-        for(auto&pair : hash){
-            if(pair.second==1){
-                sum+=pair.first;
+        for(int i =0;i < 101;i++){
+            if(freq[i]==1){
+                sum+=i;
             }
         }
         return sum;
