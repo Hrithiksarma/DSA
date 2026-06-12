@@ -64,4 +64,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Hrithiksarma/DSA/tree/master/0747-largest-number-at-least-twice-of-others) |
+## Database
+|  |
+| ------- |
+| [0196-delete-duplicate-emails](https://github.com/Hrithiksarma/DSA/tree/master/0196-delete-duplicate-emails) |
 <!---LeetCode Topics End-->
