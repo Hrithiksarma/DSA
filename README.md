@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1920-build-array-from-permutation](https://github.com/Hrithiksarma/DSA/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Hrithiksarma/DSA/tree/master/1929-concatenation-of-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/Hrithiksarma/DSA/tree/master/1991-find-the-middle-index-in-array) |
+| [2643-row-with-maximum-ones](https://github.com/Hrithiksarma/DSA/tree/master/2643-row-with-maximum-ones) |
 ## Simulation
 |  |
 | ------- |
@@ -104,4 +105,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-transpose-matrix](https://github.com/Hrithiksarma/DSA/tree/master/0867-transpose-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/Hrithiksarma/DSA/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/Hrithiksarma/DSA/tree/master/1672-richest-customer-wealth) |
+| [2643-row-with-maximum-ones](https://github.com/Hrithiksarma/DSA/tree/master/2643-row-with-maximum-ones) |
 <!---LeetCode Topics End-->
