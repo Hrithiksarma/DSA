@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Hrithiksarma/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/Hrithiksarma/DSA/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/Hrithiksarma/DSA/tree/master/0053-maximum-subarray) |
+| [0283-move-zeroes](https://github.com/Hrithiksarma/DSA/tree/master/0283-move-zeroes) |
 | [0414-third-maximum-number](https://github.com/Hrithiksarma/DSA/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/Hrithiksarma/DSA/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/Hrithiksarma/DSA/tree/master/0496-next-greater-element-i) |
@@ -115,5 +116,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Hrithiksarma/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0283-move-zeroes](https://github.com/Hrithiksarma/DSA/tree/master/0283-move-zeroes) |
 | [0977-squares-of-a-sorted-array](https://github.com/Hrithiksarma/DSA/tree/master/0977-squares-of-a-sorted-array) |
 <!---LeetCode Topics End-->
