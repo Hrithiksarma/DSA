@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/Hrithiksarma/DSA/tree/master/0013-roman-to-integer) |
 | [0217-contains-duplicate](https://github.com/Hrithiksarma/DSA/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Hrithiksarma/DSA/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/Hrithiksarma/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/Hrithiksarma/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/Hrithiksarma/DSA/tree/master/0496-next-greater-element-i) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/Hrithiksarma/DSA/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Hrithiksarma/DSA/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/Hrithiksarma/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/Hrithiksarma/DSA/tree/master/0414-third-maximum-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Hrithiksarma/DSA/tree/master/0628-maximum-product-of-three-numbers) |
@@ -141,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Hrithiksarma/DSA/tree/master/0013-roman-to-integer) |
+| [0242-valid-anagram](https://github.com/Hrithiksarma/DSA/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/Hrithiksarma/DSA/tree/master/0387-first-unique-character-in-a-string) |
 ## Queue
 |  |
