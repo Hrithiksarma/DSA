@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Hrithiksarma/DSA/tree/master/0013-roman-to-integer) |
 | [0217-contains-duplicate](https://github.com/Hrithiksarma/DSA/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/Hrithiksarma/DSA/tree/master/0349-intersection-of-two-arrays) |
+| [0387-first-unique-character-in-a-string](https://github.com/Hrithiksarma/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/Hrithiksarma/DSA/tree/master/0496-next-greater-element-i) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Hrithiksarma/DSA/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/Hrithiksarma/DSA/tree/master/1512-number-of-good-pairs) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Hrithiksarma/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Hrithiksarma/DSA/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/Hrithiksarma/DSA/tree/master/1512-number-of-good-pairs) |
 | [1748-sum-of-unique-elements](https://github.com/Hrithiksarma/DSA/tree/master/1748-sum-of-unique-elements) |
@@ -139,4 +141,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Hrithiksarma/DSA/tree/master/0013-roman-to-integer) |
+| [0387-first-unique-character-in-a-string](https://github.com/Hrithiksarma/DSA/tree/master/0387-first-unique-character-in-a-string) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Hrithiksarma/DSA/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
