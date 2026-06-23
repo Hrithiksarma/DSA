@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/Hrithiksarma/DSA/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/Hrithiksarma/DSA/tree/master/0066-plus-one) |
+| [0070-climbing-stairs](https://github.com/Hrithiksarma/DSA/tree/master/0070-climbing-stairs) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Hrithiksarma/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Hrithiksarma/DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1512-number-of-good-pairs](https://github.com/Hrithiksarma/DSA/tree/master/1512-number-of-good-pairs) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Hrithiksarma/DSA/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/Hrithiksarma/DSA/tree/master/0070-climbing-stairs) |
 ## Matrix
 |  |
 | ------- |
@@ -149,4 +151,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Hrithiksarma/DSA/tree/master/0387-first-unique-character-in-a-string) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Hrithiksarma/DSA/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
