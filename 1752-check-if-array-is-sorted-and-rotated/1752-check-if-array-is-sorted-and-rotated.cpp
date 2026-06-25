@@ -8,6 +8,10 @@ public:
             if(nums[i]>nums[(i+1)%n]){
                 count_drops++;
 
+
+            }
+            if(count_drops>1){
+                return false;
             }
 
         }
