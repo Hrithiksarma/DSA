@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Hrithiksarma/DSA/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/Hrithiksarma/DSA/tree/master/0066-plus-one) |
 | [0136-single-number](https://github.com/Hrithiksarma/DSA/tree/master/0136-single-number) |
+| [0209-minimum-size-subarray-sum](https://github.com/Hrithiksarma/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/Hrithiksarma/DSA/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/Hrithiksarma/DSA/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Hrithiksarma/DSA/tree/master/0349-intersection-of-two-arrays) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Hrithiksarma/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Hrithiksarma/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/Hrithiksarma/DSA/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/Hrithiksarma/DSA/tree/master/1480-running-sum-of-1d-array) |
@@ -69,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Hrithiksarma/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/Hrithiksarma/DSA/tree/master/0643-maximum-average-subarray-i) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Hrithiksarma/DSA/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Hash Table
@@ -135,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Hrithiksarma/DSA/tree/master/0035-search-insert-position) |
+| [0209-minimum-size-subarray-sum](https://github.com/Hrithiksarma/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0349-intersection-of-two-arrays](https://github.com/Hrithiksarma/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0367-valid-perfect-square](https://github.com/Hrithiksarma/DSA/tree/master/0367-valid-perfect-square) |
 ## Divide and Conquer
