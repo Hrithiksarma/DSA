@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Hrithiksarma/DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Hrithiksarma/DSA/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/Hrithiksarma/DSA/tree/master/0349-intersection-of-two-arrays) |
+| [0383-ransom-note](https://github.com/Hrithiksarma/DSA/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Hrithiksarma/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/Hrithiksarma/DSA/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Hrithiksarma/DSA/tree/master/0560-subarray-sum-equals-k) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0383-ransom-note](https://github.com/Hrithiksarma/DSA/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Hrithiksarma/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Hrithiksarma/DSA/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Hrithiksarma/DSA/tree/master/1394-find-lucky-integer-in-an-array) |
@@ -191,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Hrithiksarma/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/Hrithiksarma/DSA/tree/master/0013-roman-to-integer) |
 | [0242-valid-anagram](https://github.com/Hrithiksarma/DSA/tree/master/0242-valid-anagram) |
+| [0383-ransom-note](https://github.com/Hrithiksarma/DSA/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Hrithiksarma/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/Hrithiksarma/DSA/tree/master/0392-is-subsequence) |
 | [0567-permutation-in-string](https://github.com/Hrithiksarma/DSA/tree/master/0567-permutation-in-string) |
