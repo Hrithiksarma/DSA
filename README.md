@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0766-toeplitz-matrix](https://github.com/Hrithiksarma/DSA/tree/master/0766-toeplitz-matrix) |
 | [0867-transpose-matrix](https://github.com/Hrithiksarma/DSA/tree/master/0867-transpose-matrix) |
 | [0977-squares-of-a-sorted-array](https://github.com/Hrithiksarma/DSA/tree/master/0977-squares-of-a-sorted-array) |
+| [1046-last-stone-weight](https://github.com/Hrithiksarma/DSA/tree/master/1046-last-stone-weight) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Hrithiksarma/DSA/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Hrithiksarma/DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Hrithiksarma/DSA/tree/master/1394-find-lucky-integer-in-an-array) |
@@ -213,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Hrithiksarma/DSA/tree/master/0215-kth-largest-element-in-an-array) |
+| [1046-last-stone-weight](https://github.com/Hrithiksarma/DSA/tree/master/1046-last-stone-weight) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Hrithiksarma/DSA/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 ## Linked List
 |  |
