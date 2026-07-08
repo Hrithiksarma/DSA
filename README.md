@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Hrithiksarma/DSA/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Hrithiksarma/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/Hrithiksarma/DSA/tree/master/0035-search-insert-position) |
+| [0048-rotate-image](https://github.com/Hrithiksarma/DSA/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Hrithiksarma/DSA/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/Hrithiksarma/DSA/tree/master/0066-plus-one) |
 | [0136-single-number](https://github.com/Hrithiksarma/DSA/tree/master/0136-single-number) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Hrithiksarma/DSA/tree/master/0013-roman-to-integer) |
+| [0048-rotate-image](https://github.com/Hrithiksarma/DSA/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/Hrithiksarma/DSA/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/Hrithiksarma/DSA/tree/master/0070-climbing-stairs) |
 | [0367-valid-perfect-square](https://github.com/Hrithiksarma/DSA/tree/master/0367-valid-perfect-square) |
@@ -167,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Hrithiksarma/DSA/tree/master/0048-rotate-image) |
 | [0566-reshape-the-matrix](https://github.com/Hrithiksarma/DSA/tree/master/0566-reshape-the-matrix) |
 | [0766-toeplitz-matrix](https://github.com/Hrithiksarma/DSA/tree/master/0766-toeplitz-matrix) |
 | [0867-transpose-matrix](https://github.com/Hrithiksarma/DSA/tree/master/0867-transpose-matrix) |
