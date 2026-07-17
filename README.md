@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0766-toeplitz-matrix](https://github.com/Hrithiksarma/DSA/tree/master/0766-toeplitz-matrix) |
 | [0867-transpose-matrix](https://github.com/Hrithiksarma/DSA/tree/master/0867-transpose-matrix) |
 | [0977-squares-of-a-sorted-array](https://github.com/Hrithiksarma/DSA/tree/master/0977-squares-of-a-sorted-array) |
+| [0994-rotting-oranges](https://github.com/Hrithiksarma/DSA/tree/master/0994-rotting-oranges) |
 | [1046-last-stone-weight](https://github.com/Hrithiksarma/DSA/tree/master/1046-last-stone-weight) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Hrithiksarma/DSA/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Hrithiksarma/DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0566-reshape-the-matrix](https://github.com/Hrithiksarma/DSA/tree/master/0566-reshape-the-matrix) |
 | [0766-toeplitz-matrix](https://github.com/Hrithiksarma/DSA/tree/master/0766-toeplitz-matrix) |
 | [0867-transpose-matrix](https://github.com/Hrithiksarma/DSA/tree/master/0867-transpose-matrix) |
+| [0994-rotting-oranges](https://github.com/Hrithiksarma/DSA/tree/master/0994-rotting-oranges) |
 | [1572-matrix-diagonal-sum](https://github.com/Hrithiksarma/DSA/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/Hrithiksarma/DSA/tree/master/1672-richest-customer-wealth) |
 | [2643-row-with-maximum-ones](https://github.com/Hrithiksarma/DSA/tree/master/2643-row-with-maximum-ones) |
@@ -290,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/Hrithiksarma/DSA/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Hrithiksarma/DSA/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Hrithiksarma/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0994-rotting-oranges](https://github.com/Hrithiksarma/DSA/tree/master/0994-rotting-oranges) |
 ## Binary Tree
 |  |
 | ------- |
