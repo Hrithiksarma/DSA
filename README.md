@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Hrithiksarma/DSA/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Hrithiksarma/DSA/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Hrithiksarma/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0033-search-in-rotated-sorted-array](https://github.com/Hrithiksarma/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Hrithiksarma/DSA/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/Hrithiksarma/DSA/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Hrithiksarma/DSA/tree/master/0049-group-anagrams) |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/Hrithiksarma/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Hrithiksarma/DSA/tree/master/0035-search-insert-position) |
 | [0209-minimum-size-subarray-sum](https://github.com/Hrithiksarma/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0287-find-the-duplicate-number](https://github.com/Hrithiksarma/DSA/tree/master/0287-find-the-duplicate-number) |
