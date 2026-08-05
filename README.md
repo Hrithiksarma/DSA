@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Hrithiksarma/DSA/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/Hrithiksarma/DSA/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/Hrithiksarma/DSA/tree/master/0073-set-matrix-zeroes) |
+| [0078-subsets](https://github.com/Hrithiksarma/DSA/tree/master/0078-subsets) |
 | [0128-longest-consecutive-sequence](https://github.com/Hrithiksarma/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/Hrithiksarma/DSA/tree/master/0136-single-number) |
 | [0198-house-robber](https://github.com/Hrithiksarma/DSA/tree/master/0198-house-robber) |
@@ -246,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Hrithiksarma/DSA/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/Hrithiksarma/DSA/tree/master/0136-single-number) |
 | [0287-find-the-duplicate-number](https://github.com/Hrithiksarma/DSA/tree/master/0287-find-the-duplicate-number) |
 ## String
@@ -374,4 +376,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/Hrithiksarma/DSA/tree/master/0039-combination-sum) |
+| [0078-subsets](https://github.com/Hrithiksarma/DSA/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
