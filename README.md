@@ -383,4 +383,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0039-combination-sum](https://github.com/Hrithiksarma/DSA/tree/master/0039-combination-sum) |
 | [0078-subsets](https://github.com/Hrithiksarma/DSA/tree/master/0078-subsets) |
+## DP on Trees
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/Hrithiksarma/DSA/tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End-->
