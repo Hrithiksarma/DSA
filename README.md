@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Hrithiksarma/DSA/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Hrithiksarma/DSA/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Hrithiksarma/DSA/tree/master/0070-climbing-stairs) |
+| [0319-bulb-switcher](https://github.com/Hrithiksarma/DSA/tree/master/0319-bulb-switcher) |
 | [0367-valid-perfect-square](https://github.com/Hrithiksarma/DSA/tree/master/0367-valid-perfect-square) |
 | [0509-fibonacci-number](https://github.com/Hrithiksarma/DSA/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Hrithiksarma/DSA/tree/master/0628-maximum-product-of-three-numbers) |
@@ -414,4 +415,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/Hrithiksarma/DSA/tree/master/0572-subtree-of-another-tree) |
+## Brainteaser
+|  |
+| ------- |
+| [0319-bulb-switcher](https://github.com/Hrithiksarma/DSA/tree/master/0319-bulb-switcher) |
 <!---LeetCode Topics End-->
