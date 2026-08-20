@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/Hrithiksarma/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [0994-rotting-oranges](https://github.com/Hrithiksarma/DSA/tree/master/0994-rotting-oranges) |
 | [1046-last-stone-weight](https://github.com/Hrithiksarma/DSA/tree/master/1046-last-stone-weight) |
+| [1094-car-pooling](https://github.com/Hrithiksarma/DSA/tree/master/1094-car-pooling) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Hrithiksarma/DSA/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Hrithiksarma/DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Hrithiksarma/DSA/tree/master/1394-find-lucky-integer-in-an-array) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0566-reshape-the-matrix](https://github.com/Hrithiksarma/DSA/tree/master/0566-reshape-the-matrix) |
 | [0867-transpose-matrix](https://github.com/Hrithiksarma/DSA/tree/master/0867-transpose-matrix) |
+| [1094-car-pooling](https://github.com/Hrithiksarma/DSA/tree/master/1094-car-pooling) |
 | [1920-build-array-from-permutation](https://github.com/Hrithiksarma/DSA/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Hrithiksarma/DSA/tree/master/1929-concatenation-of-array) |
 ## Prefix Sum
@@ -80,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/Hrithiksarma/DSA/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/Hrithiksarma/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/Hrithiksarma/DSA/tree/master/0724-find-pivot-index) |
+| [1094-car-pooling](https://github.com/Hrithiksarma/DSA/tree/master/1094-car-pooling) |
 | [1480-running-sum-of-1d-array](https://github.com/Hrithiksarma/DSA/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/Hrithiksarma/DSA/tree/master/1732-find-the-highest-altitude) |
 | [1991-find-the-middle-index-in-array](https://github.com/Hrithiksarma/DSA/tree/master/1991-find-the-middle-index-in-array) |
@@ -176,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/Hrithiksarma/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Hrithiksarma/DSA/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0977-squares-of-a-sorted-array](https://github.com/Hrithiksarma/DSA/tree/master/0977-squares-of-a-sorted-array) |
+| [1094-car-pooling](https://github.com/Hrithiksarma/DSA/tree/master/1094-car-pooling) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Hrithiksarma/DSA/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 ## Database
 |  |
@@ -300,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Hrithiksarma/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Hrithiksarma/DSA/tree/master/0347-top-k-frequent-elements) |
 | [1046-last-stone-weight](https://github.com/Hrithiksarma/DSA/tree/master/1046-last-stone-weight) |
+| [1094-car-pooling](https://github.com/Hrithiksarma/DSA/tree/master/1094-car-pooling) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Hrithiksarma/DSA/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 ## Linked List
 |  |
