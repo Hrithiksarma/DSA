@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/Hrithiksarma/DSA/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Hrithiksarma/DSA/tree/master/0070-climbing-stairs) |
 | [0319-bulb-switcher](https://github.com/Hrithiksarma/DSA/tree/master/0319-bulb-switcher) |
+| [0343-integer-break](https://github.com/Hrithiksarma/DSA/tree/master/0343-integer-break) |
 | [0367-valid-perfect-square](https://github.com/Hrithiksarma/DSA/tree/master/0367-valid-perfect-square) |
 | [0509-fibonacci-number](https://github.com/Hrithiksarma/DSA/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Hrithiksarma/DSA/tree/master/0628-maximum-product-of-three-numbers) |
@@ -241,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/Hrithiksarma/DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0337-house-robber-iii](https://github.com/Hrithiksarma/DSA/tree/master/0337-house-robber-iii) |
 | [0338-counting-bits](https://github.com/Hrithiksarma/DSA/tree/master/0338-counting-bits) |
+| [0343-integer-break](https://github.com/Hrithiksarma/DSA/tree/master/0343-integer-break) |
 | [0376-wiggle-subsequence](https://github.com/Hrithiksarma/DSA/tree/master/0376-wiggle-subsequence) |
 | [0392-is-subsequence](https://github.com/Hrithiksarma/DSA/tree/master/0392-is-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/Hrithiksarma/DSA/tree/master/0435-non-overlapping-intervals) |
