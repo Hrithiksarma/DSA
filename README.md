@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/Hrithiksarma/DSA/tree/master/0414-third-maximum-number) |
 | [0435-non-overlapping-intervals](https://github.com/Hrithiksarma/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0485-max-consecutive-ones](https://github.com/Hrithiksarma/DSA/tree/master/0485-max-consecutive-ones) |
+| [0494-target-sum](https://github.com/Hrithiksarma/DSA/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/Hrithiksarma/DSA/tree/master/0496-next-greater-element-i) |
 | [0525-contiguous-array](https://github.com/Hrithiksarma/DSA/tree/master/0525-contiguous-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Hrithiksarma/DSA/tree/master/0540-single-element-in-a-sorted-array) |
@@ -271,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0376-wiggle-subsequence](https://github.com/Hrithiksarma/DSA/tree/master/0376-wiggle-subsequence) |
 | [0392-is-subsequence](https://github.com/Hrithiksarma/DSA/tree/master/0392-is-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/Hrithiksarma/DSA/tree/master/0435-non-overlapping-intervals) |
+| [0494-target-sum](https://github.com/Hrithiksarma/DSA/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/Hrithiksarma/DSA/tree/master/0509-fibonacci-number) |
 ## Matrix
 |  |
@@ -474,6 +476,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/Hrithiksarma/DSA/tree/master/0039-combination-sum) |
 | [0078-subsets](https://github.com/Hrithiksarma/DSA/tree/master/0078-subsets) |
 | [0131-palindrome-partitioning](https://github.com/Hrithiksarma/DSA/tree/master/0131-palindrome-partitioning) |
+| [0494-target-sum](https://github.com/Hrithiksarma/DSA/tree/master/0494-target-sum) |
 ## DP on Trees
 |  |
 | ------- |
@@ -515,4 +518,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Hrithiksarma/DSA/tree/master/0075-sort-colors) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/Hrithiksarma/DSA/tree/master/0494-target-sum) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/Hrithiksarma/DSA/tree/master/0494-target-sum) |
 <!---LeetCode Topics End-->
