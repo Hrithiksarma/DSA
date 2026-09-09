@@ -325,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Hrithiksarma/DSA/tree/master/0013-roman-to-integer) |
 | [0032-longest-valid-parentheses](https://github.com/Hrithiksarma/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/Hrithiksarma/DSA/tree/master/0049-group-anagrams) |
+| [0058-length-of-last-word](https://github.com/Hrithiksarma/DSA/tree/master/0058-length-of-last-word) |
 | [0091-decode-ways](https://github.com/Hrithiksarma/DSA/tree/master/0091-decode-ways) |
 | [0131-palindrome-partitioning](https://github.com/Hrithiksarma/DSA/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/Hrithiksarma/DSA/tree/master/0139-word-break) |
