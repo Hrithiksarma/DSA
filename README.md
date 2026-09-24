@@ -340,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/Hrithiksarma/DSA/tree/master/0392-is-subsequence) |
 | [0451-sort-characters-by-frequency](https://github.com/Hrithiksarma/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0567-permutation-in-string](https://github.com/Hrithiksarma/DSA/tree/master/0567-permutation-in-string) |
+| [0796-rotate-string](https://github.com/Hrithiksarma/DSA/tree/master/0796-rotate-string) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Hrithiksarma/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Hrithiksarma/DSA/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Hrithiksarma/DSA/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
@@ -487,6 +488,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/Hrithiksarma/DSA/tree/master/0572-subtree-of-another-tree) |
+| [0796-rotate-string](https://github.com/Hrithiksarma/DSA/tree/master/0796-rotate-string) |
 ## Hash Function
 |  |
 | ------- |
