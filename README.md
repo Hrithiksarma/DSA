@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Hrithiksarma/DSA/tree/master/0011-container-with-most-water) |
+| [0014-longest-common-prefix](https://github.com/Hrithiksarma/DSA/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/Hrithiksarma/DSA/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Hrithiksarma/DSA/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Hrithiksarma/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
@@ -326,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Hrithiksarma/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/Hrithiksarma/DSA/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/Hrithiksarma/DSA/tree/master/0014-longest-common-prefix) |
 | [0032-longest-valid-parentheses](https://github.com/Hrithiksarma/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/Hrithiksarma/DSA/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/Hrithiksarma/DSA/tree/master/0058-length-of-last-word) |
@@ -500,6 +502,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Trie
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Hrithiksarma/DSA/tree/master/0014-longest-common-prefix) |
 | [0139-word-break](https://github.com/Hrithiksarma/DSA/tree/master/0139-word-break) |
 ## Brute-Force Search
 |  |
