@@ -311,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/Hrithiksarma/DSA/tree/master/0392-is-subsequence) |
 | [0567-permutation-in-string](https://github.com/Hrithiksarma/DSA/tree/master/0567-permutation-in-string) |
 | [0611-valid-triangle-number](https://github.com/Hrithiksarma/DSA/tree/master/0611-valid-triangle-number) |
+| [0696-count-binary-substrings](https://github.com/Hrithiksarma/DSA/tree/master/0696-count-binary-substrings) |
 | [0876-middle-of-the-linked-list](https://github.com/Hrithiksarma/DSA/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/Hrithiksarma/DSA/tree/master/0977-squares-of-a-sorted-array) |
 ## Bit Manipulation
@@ -342,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/Hrithiksarma/DSA/tree/master/0392-is-subsequence) |
 | [0451-sort-characters-by-frequency](https://github.com/Hrithiksarma/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0567-permutation-in-string](https://github.com/Hrithiksarma/DSA/tree/master/0567-permutation-in-string) |
+| [0696-count-binary-substrings](https://github.com/Hrithiksarma/DSA/tree/master/0696-count-binary-substrings) |
 | [0796-rotate-string](https://github.com/Hrithiksarma/DSA/tree/master/0796-rotate-string) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Hrithiksarma/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Hrithiksarma/DSA/tree/master/1160-find-words-that-can-be-formed-by-characters) |
