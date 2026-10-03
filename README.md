@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1991-find-the-middle-index-in-array](https://github.com/Hrithiksarma/DSA/tree/master/1991-find-the-middle-index-in-array) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Hrithiksarma/DSA/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2643-row-with-maximum-ones](https://github.com/Hrithiksarma/DSA/tree/master/2643-row-with-maximum-ones) |
+| [3392-count-subarrays-of-length-three-with-a-condition](https://github.com/Hrithiksarma/DSA/tree/master/3392-count-subarrays-of-length-three-with-a-condition) |
 ## Simulation
 |  |
 | ------- |
