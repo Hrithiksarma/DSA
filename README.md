@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/Hrithiksarma/DSA/tree/master/0904-fruit-into-baskets) |
 | [0977-squares-of-a-sorted-array](https://github.com/Hrithiksarma/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [0994-rotting-oranges](https://github.com/Hrithiksarma/DSA/tree/master/0994-rotting-oranges) |
+| [1020-number-of-enclaves](https://github.com/Hrithiksarma/DSA/tree/master/1020-number-of-enclaves) |
 | [1046-last-stone-weight](https://github.com/Hrithiksarma/DSA/tree/master/1046-last-stone-weight) |
 | [1094-car-pooling](https://github.com/Hrithiksarma/DSA/tree/master/1094-car-pooling) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Hrithiksarma/DSA/tree/master/1160-find-words-that-can-be-formed-by-characters) |
@@ -293,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0766-toeplitz-matrix](https://github.com/Hrithiksarma/DSA/tree/master/0766-toeplitz-matrix) |
 | [0867-transpose-matrix](https://github.com/Hrithiksarma/DSA/tree/master/0867-transpose-matrix) |
 | [0994-rotting-oranges](https://github.com/Hrithiksarma/DSA/tree/master/0994-rotting-oranges) |
+| [1020-number-of-enclaves](https://github.com/Hrithiksarma/DSA/tree/master/1020-number-of-enclaves) |
 | [1572-matrix-diagonal-sum](https://github.com/Hrithiksarma/DSA/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/Hrithiksarma/DSA/tree/master/1672-richest-customer-wealth) |
 | [2643-row-with-maximum-ones](https://github.com/Hrithiksarma/DSA/tree/master/2643-row-with-maximum-ones) |
@@ -430,6 +432,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0337-house-robber-iii](https://github.com/Hrithiksarma/DSA/tree/master/0337-house-robber-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/Hrithiksarma/DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Hrithiksarma/DSA/tree/master/0572-subtree-of-another-tree) |
+| [1020-number-of-enclaves](https://github.com/Hrithiksarma/DSA/tree/master/1020-number-of-enclaves) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -442,6 +445,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Hrithiksarma/DSA/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/Hrithiksarma/DSA/tree/master/0226-invert-binary-tree) |
 | [0994-rotting-oranges](https://github.com/Hrithiksarma/DSA/tree/master/0994-rotting-oranges) |
+| [1020-number-of-enclaves](https://github.com/Hrithiksarma/DSA/tree/master/1020-number-of-enclaves) |
 ## Binary Tree
 |  |
 | ------- |
@@ -474,6 +478,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/Hrithiksarma/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/Hrithiksarma/DSA/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Hrithiksarma/DSA/tree/master/0200-number-of-islands) |
+| [1020-number-of-enclaves](https://github.com/Hrithiksarma/DSA/tree/master/1020-number-of-enclaves) |
 ## Graph Theory
 |  |
 | ------- |
